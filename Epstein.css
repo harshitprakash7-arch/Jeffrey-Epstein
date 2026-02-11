@@ -1,0 +1,57 @@
+h1 {
+    color: red; background-color: black;
+}
+p { background-color: red;}
+h2 {
+    color: black; background-color: red;
+}
+h1 {
+  border: 2px solid gold;
+}
+body{
+    background-color: black;
+}
+p {
+    border: 0.5px solid white;
+}
+h2 {
+  border: 1px solid white;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+img {
+    align-self: center;
+}
+button{
+    color: gold; background-color: crimson;
+}
+button{ border: 2px solid red;}
+button {
+  display: block;
+  margin: 0 auto;
+}
+.box {
+  text-align: center;
+}
+div {
+  border: 0.5px solid white; background-color: crimson;
+}
+img {
+  border: 0.25px solid gold;
+}
+.box {
+  background-color: crimson;               /* base color */
+  background-image: url("hindu.png");  /* design */
+  background-repeat: hindu;             /* tile it */
+}
+
+
+
+
