@@ -1,3 +1,8 @@
+*{
+  font-family: fantasy;
+}
+
+
 h1 {
     color: red; background-color: black;
 }
@@ -12,7 +17,7 @@ body{
     background-color: black;
 }
 p {
-    border: 0.5px solid white;
+    border: 0.5px solid rgb(250, 247, 247);
 }
 h2 {
   border: 1px solid white;
